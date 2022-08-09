@@ -1,2 +1,2 @@
-# FirstYearProject
-Fixethics website
+# FIXETHICS
+IS1109 group project
